@@ -1,0 +1,4 @@
+# Собранные пакеты не храним в git — только в GitHub Releases
+dist/
+*.apk
+*.aab
